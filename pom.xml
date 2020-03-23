@@ -10,6 +10,8 @@
     <modules>
         <module>cve-2020-2551</module>
         <module>CVE-2020-8840</module>
+        <module>CVE-2020-2555</module>
+        <module>CVE-2020-10673</module>
     </modules>
     <packaging>pom</packaging>
 
